@@ -42,6 +42,9 @@ class ContactController extends Controller
         'title' => 'Edit Contact'
        ]);
 
+    //    from master - 1
+    //    from master - 2
+
     }
 
     public function update(contactMessageRequest $request, $id)
