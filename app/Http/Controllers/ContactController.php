@@ -18,7 +18,9 @@ class ContactController extends Controller
             'title' => 'All Contact Messages'
         ]);
 
-        // echo 'ji';
+        // echo 'ji - from dev';
+        // echo 'ji - from dev';
+        // echo 'ji - from dev';
     }
 
     public function create()
