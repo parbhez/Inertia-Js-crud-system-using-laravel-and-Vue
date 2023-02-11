@@ -17,6 +17,8 @@ class ContactController extends Controller
             'contact_messages' => Contact::all(),
             'title' => 'All Contact Messages'
         ]);
+
+        // echo 'ji';
     }
 
     public function create()
